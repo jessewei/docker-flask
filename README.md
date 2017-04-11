@@ -3,9 +3,9 @@
 
 This image is a boilerplate for any Flask application,  pages are served by uwsgi and Nginx.
 
-On Docker host run: docker run -d -p 80:80 p0bailey/docker-flask
+On Docker host run: docker run -d -p 80:80 jessewei/docker-flask
 
-On Docker machine run: docker run -d -p 80:80 p0bailey/docker-flask
+On Docker machine run: docker run -d -p 80:80 jessewei/docker-flask
 
 Docker compose: docker-compose up -d
 
